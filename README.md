@@ -1,6 +1,6 @@
 # Model Alignment and Realignment Evaluation Framework
 
-This is the official repository for our paper [The Art of (Mis)alignment: How Fine-Tuning Methods Effectively Misalign and Realign LLMs in Post-Training]().
+This is the official repository for our paper [The Art of (Mis)alignment: How Fine-Tuning Methods Effectively Misalign and Realign LLMs in Post-Training](https://arxiv.org/abs/2604.07754).
 
 ## Project Structure
 
